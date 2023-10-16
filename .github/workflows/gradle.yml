@@ -28,5 +28,5 @@ jobs:
     - name: Upload artifacts
       uses: actions/upload-artifact@v2
       with:
-        name: appliedenergistics2
+        name: Subaquatic
         path: build/libs
